@@ -1,0 +1,37 @@
+.main-content code {
+  background-color: #fff;
+  margin: 0 10px 10px;
+  font-size: 19px;
+}
+
+code {
+color: #bdbdbd;
+text-align: center;
+display: block;
+font-size: 20px;
+margin: 0 30px 25px;
+
+span {
+  color: #000000;
+}
+
+i {
+  color: #b5bd68;
+}
+
+em {
+  color: #d14;
+  font-style: unset;
+}
+
+b {
+  color: #00707D;
+  font-weight: 500;
+}
+}
+
+@media screen and (max-width: 880px) {
+p {
+  font-size: 14vw;
+}
+}

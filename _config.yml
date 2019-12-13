@@ -1,0 +1,11 @@
+title: Theme Pages
+email: suportemarcelosena@gmail.com
+description: >-
+  Theme for GitHub Pages
+baseurl: ""
+url: https://repoweb.github.io/theme-pages
+theme: jekyll-theme-cayman
+github_username: repoweb
+show_downloads: true
+google_analytics: UA-145893192-2
+has_footer: true
